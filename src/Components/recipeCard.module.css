@@ -1,0 +1,31 @@
+.recipeCard{
+    width: 270px;
+    height: auto;
+    border: 1px solid black;
+    margin: 10px;
+    border-radius: 10px;
+    
+}   
+
+.recipeImg{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding-top: 6px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.recipeDescription{
+    text-align: left;
+    padding-left: 4px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: coral;
+}
+
+.recipeHeading{
+    text-align: center;
+    padding: 5px;
+
+}
+
